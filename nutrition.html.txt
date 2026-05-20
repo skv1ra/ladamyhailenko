@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Здорове харчування</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #fffdf0;
+            margin: 0;
+            color: #333;
+        }
+
+        header {
+            background-color: #ff9800;
+            color: white;
+            text-align: center;
+            padding: 25px;
+        }
+
+        nav {
+            background-color: #f57c00;
+            padding: 15px;
+            text-align: center;
+        }
+
+        nav a {
+            color: white;
+            margin: 15px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        section {
+            padding: 30px;
+        }
+
+        img {
+            width: 100%;
+            max-width: 600px;
+            border-radius: 10px;
+        }
+
+        footer {
+            background-color: #f57c00;
+            color: white;
+            text-align: center;
+            padding: 15px;
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <h1>Здорове харчування</h1>
+</header>
+
+<nav>
+    <a href="index.html">Головна</a>
+    <a href="nutrition.html">Здорове харчування</a>
+    <a href="sport.html">Фізична активність</a>
+</nav>
+
+<section>
+
+    <img src="https://images.unsplash.com/photo-1490645935967-10de6ba17061" alt="Здорове харчування">
+
+    <p>
+        Правильне харчування є важливою частиною здорового способу життя.
+        Організм людини потребує білків, жирів, вуглеводів, вітамінів та мінералів.
+    </p>
+
+    <h3>Основні правила здорового харчування:</h3>
+
+    <ol>
+        <li>Їсти більше овочів та фруктів</li>
+        <li>Пити достатньо води</li>
+        <li>Обмежити солодощі та фастфуд</li>
+        <li>Харчуватися регулярно</li>
+        <li>Вживати натуральні продукти</li>
+    </ol>
+
+    <p>
+        Корисну інформацію про здорове харчування можна знайти тут:
+        <a href="https://www.prozdorove.org/ration" target="_blank">
+            Про здорове
+        </a>
+    </p>
+
+    <p>
+        Відео про основи здорового харчування:
+        <a href="https://www.youtube.com/watch?v=0SjGmZEgNj0" target="_blank">
+            Переглянути
+        </a>
+    </p>
+
+</section>
+
+<footer>
+    © 2026 Ми за здоровий спосіб життя
+</footer>
+
+</body>
+</html>
